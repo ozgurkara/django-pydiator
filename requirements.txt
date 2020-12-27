@@ -1,0 +1,10 @@
+djangorestframework==3.12.2
+pydiator-core==1.0.4
+
+
+
+
+
+
+
+
